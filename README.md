@@ -1,7 +1,7 @@
 <h1 align="center">Shayan Zarei</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shayan-zarei-89001623b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shayan-zarei-89001623b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sh.zarei14@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.kaggle.com/shayanzarei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
@@ -16,10 +16,16 @@
 
 ## Research experience
 
-- **Neural encoding in the macaque ventral visual stream** — Research Project Lead, Interdisciplinary Schools (Sep 2026–present). Building mean–covariance neural encoding models for image-driven spiking responses using the TVSD dataset. [GitHub](https://github.com/ZareiShayan/tvsd-encode)
+- **Neural encoding in the macaque ventral visual stream**
+  *Research Project Lead, Interdisciplinary Schools (Sep 2026–present)*
+  Building mean–covariance neural encoding models for image-driven spiking responses using the TVSD dataset. [GitHub](https://github.com/ZareiShayan/tvsd-encode)
+
 - **Mean–covariance modeling of prefrontal activity during foraging** — Research Assistant with Dr. Neda Shahidi, University of Göttingen and German Primate Center / Interdisciplinary Schools (Jan 2025–present). Exploring neural mean activity and inter-neuronal dependency structure in the dorsolateral prefrontal cortex of freely moving macaques. [GitHub](https://github.com/ZareiShayan/mean-cov-model)
+
 - **EEG and continuous mental health dimensions** — Research Project Lead, Interdisciplinary Schools (Jan 2026–present). Investigating regression models that map Healthy Brain Network EEG features to continuous behavioral variables. Repository currently private.
+
 - **Longitudinal EEG after theta-burst stimulation** — Research Assistant with Prof. Ali Motie Nasrabadi, Shahed University / Interdisciplinary Schools (Nov 2023–Jun 2025). Analyzed EEG following stimulation over the left dorsolateral prefrontal cortex using hierarchical dynamic causal modeling. [GitHub](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS) · [Preprint](https://www.medrxiv.org/content/10.1101/2025.05.23.25328212v2)
+
 - **Hippocampal CA2–CA3 connectivity** — Research Assistant with Dr. Tristan Stober, University of Göttingen / Interdisciplinary Schools (Sep 2023–Sep 2024). Investigated connectivity following social and non-social experiences. [GitHub](https://github.com/tristanstoeber/hpc_act_corr)
 
 ## Teaching experience
