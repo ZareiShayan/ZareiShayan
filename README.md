@@ -6,7 +6,7 @@
   <a href="https://www.kaggle.com/shayanzarei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
-<p align="center"><strong>Medical student | Computational neuroscience researcher | Neuroscience educator</strong></p>
+<p align="center"><strong>Medical student | Computational neuroscience researcher</strong></p>
 
 <p align="center">
   MD student at Tehran University of Medical Sciences and Head of the Signal Department at Interdisciplinary Schools. I study neural activity through electrophysiology, signal processing, and computational modeling, and develop research-based training in neuroscience.
@@ -16,7 +16,7 @@
 
 ## Research experience
 
-- **Neural encoding in the macaque ventral visual stream** — *Research Project Lead, Interdisciplinary Schools (Sep 2026–present).* — Building mean–covariance neural encoding models for image-driven spiking responses using the TVSD dataset. [GitHub](https://github.com/ZareiShayan/tvsd-encode)
+- **Neural encoding in the macaque ventral visual stream** — *Research Project Lead, Interdisciplinary Schools (Sep 2026–present).* Building mean–covariance neural encoding models for image-driven spiking responses using the TVSD dataset. [GitHub](https://github.com/ZareiShayan/tvsd-encode)
 
 - **Mean–covariance modeling of prefrontal activity during foraging** — *Research Assistant with Dr. Neda Shahidi, University of Göttingen and German Primate Center / Interdisciplinary Schools (Jan 2025–present).* Exploring neural mean activity and inter-neuronal dependency structure in the dorsolateral prefrontal cortex of freely moving macaques. [GitHub](https://github.com/ZareiShayan/mean-cov-model)
 
@@ -42,7 +42,15 @@
   <img src="https://img.shields.io/badge/FieldTrip-334155?style=for-the-badge" alt="FieldTrip">
   <img src="https://img.shields.io/badge/EEGLAB-334155?style=for-the-badge" alt="EEGLAB">
   <img src="https://img.shields.io/badge/ERPLAB-334155?style=for-the-badge" alt="ERPLAB">
-  <img src="https://img.shields.io/badge/EEG_Analysis-334155?style=for-the-badge" alt="EEG analysis">
-  <img src="https://img.shields.io/badge/Electrophysiology-334155?style=for-the-badge" alt="Electrophysiology">
-  <img src="https://img.shields.io/badge/Machine_Learning-334155?style=for-the-badge" alt="Machine learning">
+  <img src="https://img.shields.io/badge/MNE--Python-334155?style=for-the-badge" alt="MNE-Python">
+  <img src="https://img.shields.io/badge/SciPy.signal-334155?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy signal">
+  <img src="https://img.shields.io/badge/Neo-334155?style=for-the-badge" alt="Neo">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning">
+  <img src="https://img.shields.io/badge/Captum-334155?style=for-the-badge" alt="Captum">
+  <img src="https://img.shields.io/badge/SHAP-334155?style=for-the-badge" alt="SHAP">
+  <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorBoard">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
